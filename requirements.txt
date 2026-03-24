@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+numpy
+pandas
+scikit-learn
+lightgbm
+torch
+torchvision
+sentence-transformers
+tqdm
+Pillow
+optuna
+pyyaml
+=======
+numpy
+pandas
+scikit-learn
+lightgbm
+torch
+torchvision
+sentence-transformers
+tqdm
+Pillow
+optuna
+pyyaml
+>>>>>>> 18d577671530640494aa83c90e563dd2dd87cd75
+joblib

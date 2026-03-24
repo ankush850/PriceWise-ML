@@ -1,0 +1,4 @@
+seed: 42
+n_folds: 5
+text_tfidf_features: 5000
+text_svd_components: 128

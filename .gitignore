@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.env.local
+venv/
+
+*.egg-info/
+dist/
+build/
+
+*.log
+
+# Excluded from repo
+README.md
+research_paper.md
+
+# Large data files (commented out to include whole dataset)
+#dataset/train.csv
+#dataset/test.csv
+#dataset/embeddings/
+#dataset/images/
+
+# Generated outputs (commented out to include whole outputs folder)
+#outputs/
+
+submissionValidation/test_out.csv
+
+# Unignore entire dataset and outputs directories
+!dataset/
+!outputs/
